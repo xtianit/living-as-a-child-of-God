@@ -491,7 +491,7 @@ const [contentData, setContentData] = useState<ContentData>({
 
 
         if (appLoading) {
-    const animatedText = "My Month of Complelling Favour Genesis 39:1-7, Neh. 2:1-8".split("");
+    const animatedText = "Complelling Favour Genesis 39:1-7, Neh. 2:1-8".split("");
 
     return (
         <div className="fixed inset-0 bg-gradient-to-br from-blue-600 via-indigo-600 to-purple-700 flex items-center justify-center z-50">
