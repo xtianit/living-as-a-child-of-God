@@ -213,7 +213,7 @@ const [contentData, setContentData] = useState<ContentData>({
     
     lessonPoints: [
         {
-            title: "1. THE BLINDNESS OF THE HEART",
+            title: "THE BLINDNESS OF THE HEART",
             content:
                 "The heart is the key that determines the life of a man and if it is blind, then the man is bound to stumble and fall. Heart blindness causes hardness of the heart because it doesn't know what decision it is making and mostly it does the wrong ones. Certain things are responsible for blindness of the heart.",
             scriptures: ["Proverbs 4:23"],
@@ -225,7 +225,7 @@ const [contentData, setContentData] = useState<ContentData>({
             ],
         },
         {
-            title: "2. IGNORANCE",
+            title: "IGNORANCE",
             content:
                 "The Bible says that people are destroyed for lack of knowledge. Ignorance is a deadly weapon of Satan to destroy its victims. Heart blindness leads to ignorance. Ignorance is the factor responsible for Satan taking advantage of man to darken his understanding, and separation from the life of God. Ignorance produces:",
             scriptures: ["Hosea 4:6"],
