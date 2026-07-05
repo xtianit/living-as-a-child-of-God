@@ -218,10 +218,10 @@ const [contentData, setContentData] = useState<ContentData>({
                 "The heart is the key that determines the life of a man and if it is blind, then the man is bound to stumble and fall. Heart blindness causes hardness of the heart because it doesn't know what decision it is making and mostly it does the wrong ones. Certain things are responsible for blindness of the heart.",
             scriptures: ["Proverbs 4:23"],
             subPoints: [
-                { title: "(A)", content: "Refusal to surrender to Jesus Christ" },
-                { title: "(B)", content: "Feeling of self-sufficiency" },
-                { title: "(C)", content: "Pride" },
-                { title: "(D)", content: "Arrogance" }
+                { title: "", content: "Refusal to surrender to Jesus Christ" },
+                { title: "", content: "Feeling of self-sufficiency" },
+                { title: "", content: "Pride" },
+                { title: "", content: "Arrogance" }
             ],
         },
         {
